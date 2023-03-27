@@ -6,9 +6,9 @@ Olá, seja bem-vindo(a)! Sou a Júlia
 
 📚 Estou no 5º Termo de Sistemas de Informação pela Toledo Prudente
 
-🏃🏽‍♀️ Apaixonada por Esportes e Tecnologia
+🏃🏽‍♀️ Apaixonada por esportes e tecnologia
 
-⌨️ Procurando conhecimento em Python e SQL
+⌨️ Constantemente procurando conhecimento em todas as áreas da tecnologia
 
 
 <div style="display: inline_block"><br>
