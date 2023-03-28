@@ -1,6 +1,4 @@
-# juliaspontes
-
-Olá, seja bem-vindo(a)! Sou a Júlia
+# Olá, seja bem-vindo(a)! Sou a Júlia
 
 👩🏽‍💻 Atualmente trabalho na E-Gestora
 
