@@ -2,7 +2,7 @@
 
 👩🏽‍💻 Atualmente trabalho na E-Gestora
 
-📚 Estou no 5º Termo de Sistemas de Informação pela Toledo Prudente
+📚 Estou no 6º Termo de Sistemas de Informação pela Toledo Prudente
 
 🏃🏽‍♀️ Apaixonada por esportes e tecnologia
 
