@@ -1,6 +1,5 @@
 # Olá, seja bem-vindo(a)! Sou a Júlia
 
-👩🏽‍💻 Atualmente trabalho na E-Gestora
 
 📚 Estou no 8º Termo de Sistemas de Informação pela Toledo Prudente
 
